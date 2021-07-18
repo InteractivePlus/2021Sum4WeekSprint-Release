@@ -7,7 +7,10 @@
 
 ## 课程资源
 
-课程资源将陆续在本页面公布, 请持续关注.
+[前端课程大纲](Syllabus/Frontend-Syllasbus.md)
+[后端PHP课程大纲](Syllabus/PHP-Syllabus.md)
+
+更多内容将陆续发布, 敬请期待
 
 ---
 
