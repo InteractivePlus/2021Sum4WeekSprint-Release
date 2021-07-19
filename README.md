@@ -15,6 +15,7 @@
 **后端**
 
 [Bilibili - 2021夏季冲刺 - 后端 \| 第一课](https://www.bilibili.com/video/BV1Vv411E7zB)
+[后端作业01](HWs/Backend/HW01/README.md)
 
 ## 课程资源
 
