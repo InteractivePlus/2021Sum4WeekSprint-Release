@@ -5,6 +5,17 @@
 欢迎来到形随意动2021夏季4周冲刺活动主页!   
 注: 本页面网站采用MIT License, 转载/做基础修改请注明原作者   
 
+## 今日内容
+
+**前端**
+
+[Bilibili - 2021夏季冲刺 - 前端 | 第一课](https://www.bilibili.com/video/BV1w64y167HX)
+[前端作业01](HWs/Frontend/HW01/README.md)
+
+**后端**
+
+[Bilibili - 2021夏季冲刺 - 后端 | 第一课](https://www.bilibili.com/video/BV1Vv411E7zB)
+
 ## 课程资源
 
 [前端课程大纲](Syllabus/Frontend-Syllasbus.md)
