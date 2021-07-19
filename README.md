@@ -9,12 +9,12 @@
 
 **前端**
 
-[Bilibili - 2021夏季冲刺 - 前端 | 第一课](https://www.bilibili.com/video/BV1w64y167HX)
+[Bilibili - 2021夏季冲刺 - 前端 \| 第一课](https://www.bilibili.com/video/BV1w64y167HX)
 [前端作业01](HWs/Frontend/HW01/README.md)
 
 **后端**
 
-[Bilibili - 2021夏季冲刺 - 后端 | 第一课](https://www.bilibili.com/video/BV1Vv411E7zB)
+[Bilibili - 2021夏季冲刺 - 后端 \| 第一课](https://www.bilibili.com/video/BV1Vv411E7zB)
 
 ## 课程资源
 
