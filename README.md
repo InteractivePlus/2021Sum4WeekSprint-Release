@@ -15,7 +15,8 @@
 **后端**
 
 [Bilibili - 2021夏季冲刺 - 后端 \| 第二课](https://www.bilibili.com/video/BV1o54y1E79s)
-[今日作业暂未发布, 预计中午12点发布 :)](#)
+[后端作业02](HWs/Backend/HW02/README.md)
+[后端作业02答案](HWs/Backend/HW02/Answer.md)
 
 ## 课程资源
 
