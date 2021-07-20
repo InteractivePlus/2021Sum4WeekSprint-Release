@@ -5,7 +5,7 @@
 
 #### 视频地址
 
-[Bilibili - 2021夏季冲刺 - 前端 | 第一课](https://www.bilibili.com/video/BV1w64y167HX)
+[Bilibili - 2021夏季冲刺 - 前端 \| 第一课](https://www.bilibili.com/video/BV1w64y167HX)
 
 #### 视频内容(30min)
 
@@ -22,6 +22,11 @@
 [点击查看作业01](../HWs/Frontend/HW01/README.md)
 
 ### 1.2 周二(2021/7/20)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 前端 \| 第二课](https://www.bilibili.com/video/BV18X4y1c7NM)
+
 #### 视频内容(30min)
 
 1. Div元素
@@ -35,7 +40,7 @@
 
 #### 作业
 
-暂未发布
+[点击查看作业02](../HWs/Frontend/HW02/README.md)
 
 ### 1.3 周三(2021/7/21)
 #### 视频内容(30min)
