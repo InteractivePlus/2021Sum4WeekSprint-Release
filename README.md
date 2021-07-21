@@ -9,14 +9,14 @@
 
 **前端**
 
-[Bilibili - 2021夏季冲刺 - 前端 \| 第二课](https://www.bilibili.com/video/BV18X4y1c7NM)
-[前端作业02](HWs/Frontend/HW02/README.md)
+[Bilibili - 2021夏季冲刺 - 前端 \| 第三课](https://www.bilibili.com/video/BV1gg411M7no)
+[前端作业03](HWs/Frontend/HW03/README.md)
 
 **后端**
 
-[Bilibili - 2021夏季冲刺 - 后端 \| 第二课](https://www.bilibili.com/video/BV1o54y1E79s)
-[后端作业02](HWs/Backend/HW02/README.md)
-[后端作业02答案](HWs/Backend/HW02/Answer.md)
+[Bilibili - 2021夏季冲刺 - 后端 \| 第三课](https://www.bilibili.com/video/BV1VM4y1T7sL)
+[后端作业02](HWs/Backend/HW03/README.md)
+[后端作业02答案](HWs/Backend/HW03/Answer.md)
 
 ## 课程资源
 

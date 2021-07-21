@@ -43,6 +43,11 @@
 [点击查看作业02](../HWs/Frontend/HW02/README.md)
 
 ### 1.3 周三(2021/7/21)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 前端 \| 第三课](https://www.bilibili.com/video/BV1gg411M7no)
+
 #### 视频内容(30min)
 
 1. JavaScript介绍
@@ -58,7 +63,7 @@
 
 #### 作业
 
-暂未发布
+[点击查看作业03](../HWs/Frontend/HW03/README.md)
 
 ### 1.4 周四(2021/7/22)
 #### 视频内容(30min)
