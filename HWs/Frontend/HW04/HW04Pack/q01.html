@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <!-- 形随意动2021夏季冲刺项目 Day04 作业 Q01 -->
+    <head>
+        <meta charset="UTF-8" />
+        <title>Day4 - HW Q1</title>
+        <script src="js/q01.js" ></script>
+        <script>
+            function q01Func(promise){
+                /** 请在下方编写你的作业代码
+                 * Write your code below
+                 */
+
+                //promise成功时获取data, 并调用dataRcv(data)
+                //promise失败时获取reason, 并调用errored(reason)
+                
+                promise.then((value)=>{
+                    dataRcv(value);
+                }).catch((reason) => {
+                    errored(reason);
+                })
+
+                /** 请在上方编写你的作业代码
+                 * Write your code above
+                 */
+            }
+            registerAsyncFunc(q01Func);
+        </script>
+    </head>
+    <body>
+        <div style="width: auto; background-color: #e4e4e4;" id="msgDisplayPanel">
+            
+        </div>
+    </body>
+</html>

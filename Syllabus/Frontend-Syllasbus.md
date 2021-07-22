@@ -66,6 +66,11 @@
 [点击查看作业03](../HWs/Frontend/HW03/README.md)
 
 ### 1.4 周四(2021/7/22)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 前端 \| 第四课](https://www.bilibili.com/video/BV14g411M782)
+
 #### 视频内容(30min)
 
 1. JavaScript class
@@ -79,7 +84,7 @@
 
 #### 作业
 
-暂未发布
+[点击查看作业04](../HWs/Frontend/HW04/README.md)
 
 ### 1.5 周五(2021/7/23)
 #### 视频内容(30min)
