@@ -87,6 +87,11 @@
 [点击查看作业04](../HWs/Frontend/HW04/README.md)
 
 ### 1.5 周五(2021/7/23)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 前端 \| 第五课](https://www.bilibili.com/video/BV1F54y1J7Mh)
+
 #### 视频内容(30min)
 
 1. 如何在HTML中使用外部Javascript
@@ -99,9 +104,14 @@
 
 #### 作业
 
-暂未发布
+[点击查看作业05](../HWs/Frontend/HW05/README.md)
 
 ### 1.6 周六(2021/7/24)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 前端 \| 第六课](https://www.bilibili.com/video/BV1zb4y167RA)
+
 #### 视频内容(30min)
 
 1. Javascript与HTML页面元素交互
@@ -111,7 +121,7 @@
 
 #### 作业
 
-暂未发布
+[点击查看作业06](../HWs/Frontend/HW06/README.md)
 
 ### 1.7 周天(2021/7/25)
 #### 视频内容(30min)

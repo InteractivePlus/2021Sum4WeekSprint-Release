@@ -9,13 +9,18 @@
 
 **前端**
 
-[Bilibili - 2021夏季冲刺 - 前端 \| 第四课](https://www.bilibili.com/video/BV14g411M782)
-[前端作业04](HWs/Frontend/HW04/README.md)
+1. [Bilibili - 2021夏季冲刺 - 前端 \| 第五课](https://www.bilibili.com/video/BV1F54y1J7Mh) - 非常抱歉, 昨天忘了更新页面了
+2. [前端作业05](../HWs/Frontend/HW05/README.md) - 非常抱歉, 昨天忘了更新页面了
+3. [Bilibili - 2021夏季冲刺 - 前端 \| 第六课](https://www.bilibili.com/video/BV1zb4y167RA)
+4. [前端作业06](../HWs/Frontend/HW06/README.md)
 
 **后端**
 
-[Bilibili - 2021夏季冲刺 - 后端 \| 第四课](https://www.bilibili.com/video/BV18w41197vB)
-[后端作业04](HWs/Backend/HW04/README.md)
+1. [Bilibili - 2021夏季冲刺 - 后端 \| 第五课](https://www.bilibili.com/video/BV1BL411H7Jy) - 非常抱歉, 昨天忘了更新页面了
+2. [后端作业05](HWs/Backend/HW05/README.md) - 非常抱歉, 昨天忘了更新页面了
+3. [Bilibili - 2021夏季冲刺 - 后端 \| 第六课](https://www.bilibili.com/video/BV1x54y1E7KJ)
+4. [后端作业06](HWs/Backend/HW06/README.md)
+5. [后端作业06答案](HWs/Backend/HW06/Answer.md)
 
 ## 课程资源
 

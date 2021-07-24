@@ -83,6 +83,12 @@
 
 ### 1.5 周五(2021/7/23)
 
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 后端 \| 第五课](https://www.bilibili.com/video/BV1BL411H7Jy)
+
+#### 视频内容(30min)
+
 1. 复习昨日内容(非常快速)
 2. Composer/Autoloader介绍
 
@@ -90,9 +96,14 @@
 PSR Autoloader规范
 
 #### 课后作业
-暂未发布
+
+[点击查看作业05](../HWs/Backend/HW05/README.md)
 
 ### 1.6 周六(2021/7/24)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 后端 \| 第六课](https://www.bilibili.com/video/BV1x54y1E7KJ)
 
 #### 视频内容(30min)
 1. SlimPHP安装和入口文件(public/index.php) - 建议直接提供PHPStudy可以供导入的包
@@ -102,7 +113,9 @@ PSR Autoloader规范
 SlimPHP Controller/Middleware
 
 #### 课后作业
-暂未发布
+
+[点击查看作业06](../HWs/Backend/HW06/README.md)
+[点击查看作业06答案](../HWs/Backend/HW06/Answer.md)
 
 ### 1.7 周天
 #### 视频内容(30min)
