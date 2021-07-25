@@ -124,6 +124,12 @@
 [点击查看作业06](../HWs/Frontend/HW06/README.md)
 
 ### 1.7 周天(2021/7/25)
+
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 前端 \| 第七课](https://www.bilibili.com/video/BV1S54y1E7DF)
+
+
 #### 视频内容(30min)
 
 1. React安装
@@ -133,4 +139,4 @@
 
 #### 作业
 
-无作业
+第七天无作业, ✌耶!

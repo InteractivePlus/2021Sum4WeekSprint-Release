@@ -118,12 +118,18 @@ SlimPHP Controller/Middleware
 [点击查看作业06答案](../HWs/Backend/HW06/Answer.md)
 
 ### 1.7 周天
+#### 视频地址
+
+[Bilibili - 2021夏季冲刺 - 后端 \| 第七课](https://www.bilibili.com/video/BV12v411n7V3)
+
 #### 视频内容(30min)
 
 1. SlimPHP在生产环境的部署
 
 #### 拓展阅读资料
-TODO
+暂无
 
 #### 课后作业
-暂未发布
+
+[点击查看作业07](../HWs/Backend/HW07/README.md)
+[点击查看作业07答案](../HWs/Backend/HW07/Answer.md)
